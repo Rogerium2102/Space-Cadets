@@ -7,7 +7,7 @@
     <ProjectGuid>{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Week_2</RootNamespace>
-    <AssemblyName>Week_2</AssemblyName>
+    <AssemblyName>Week 2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Objects\Variable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

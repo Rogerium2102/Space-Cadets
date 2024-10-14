@@ -47,8 +47,7 @@
               "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:16:06.556Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Week 2\\Objects\\Program.cs",
               "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Program.cs",
               "RelativeToolTip": "Week 2\\Objects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAP8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T16:58:22.677Z",
               "IsPinned": true,
@@ -78,8 +77,7 @@
               "RelativeToolTip": "Week 2\\Objects\\loop.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:15:59.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T19:15:59.273Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "Week 2\\Managers\\FileManager.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T16:44:34.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T16:44:34.095Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "Week 2\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:50:31.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T14:50:31.306Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "RelativeToolTip": "Week 2\\Objects\\Condition.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:26:28.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T19:26:28.859Z"
             }
           ]
         }

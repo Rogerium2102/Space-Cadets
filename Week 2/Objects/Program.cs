@@ -253,6 +253,7 @@ namespace Week_2.Objects
             {
                 Console.WriteLine(ex.ToString());
             }
+            OutputVar();
         }
 
         public bool isTerminated()

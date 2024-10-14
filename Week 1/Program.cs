@@ -12,6 +12,10 @@ namespace Week_1
     {
         static string FiltlerResponseGetName(string Body)
         {
+            if (DoesBodyContainInvalidCharacter(Body))
+            {
+                return "";
+            }
             string foundDescription = Body.Substring(Body.IndexOf("description"), Body.IndexOf("link") - Body.IndexOf("description"));
             string UserTitle = ObtainTitle(foundDescription);
             if (UserTitle == "")
@@ -22,6 +26,32 @@ namespace Week_1
             int foundIs = foundDescription.IndexOf(" is ");
             string foundName = foundDescription.Substring(beginProfessor, foundIs - beginProfessor);
             return foundName;
+        }
+
+        static string FindEmail(string Body)
+        {
+            int EmailStart = Body.IndexOf("mailto:");
+            if (EmailStart == -1)
+            {
+                return "Unable to find email!";
+            }
+            string text = "";
+            int count = EmailStart+7;
+            while(!text.Contains('"'))
+            {
+                text += Body[count];
+                count++;
+            }
+            return text.Substring(0, text.Length - 1);
+        }
+
+        static bool DoesBodyContainInvalidCharacter(string Body)
+        {
+            if (Body.IndexOf("description") == -1)
+            {
+                return true;
+            }
+            return false;
         }
 
         static string ObtainTitle(string Body)
@@ -55,6 +85,7 @@ namespace Week_1
                 string responseBody = await response.Content.ReadAsStringAsync();
                 RequestResponse = responseBody;
                 Console.WriteLine(FiltlerResponseGetName(RequestResponse));
+                Console.WriteLine(FindEmail(RequestResponse));
             }
         }
         static void Main(string[] args)

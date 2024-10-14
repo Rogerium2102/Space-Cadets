@@ -6,21 +6,33 @@ using System.Threading.Tasks;
 
 namespace Week_2.Objects
 {
-
-    public class Variable
+    public class variable
     {
-        private int Value;
-        private string Identifier;
+        private int _value = 0;
+        private string _identifier;
 
-        public Variable() { }   
+        public variable(string identifier) { _identifier = identifier; }
 
-        public void SetValue(int value) {
-            Value = value; }
-
-        public int GetValue() { return Value; }
-
-        public void SetIdentifier(string identifier) { Identifier = identifier; }
-
-        public string GetIdentifier() { return Identifier; }
+        private bool CheckValueValid(int value)
+        {
+            if (value < 0)
+            {
+                return false;
+            }
+            return true;
+        }
+        public void SetValue(int value) 
+        {
+            if (CheckValueValid(value))
+            {
+                _value = value;
+            }
+            else
+            {
+                throw new InvalidOperationException();
+            }
+        }
+        public int GetValue() { return _value; }
+        public string GetIdentifier() { return _identifier; }
     }
 }

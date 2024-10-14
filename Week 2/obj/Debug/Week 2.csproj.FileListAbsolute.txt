@@ -1,0 +1,7 @@
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\bin\Debug\Week 2.exe.config
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\bin\Debug\Week 2.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\bin\Debug\Week 2.pdb
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.csproj.AssemblyReference.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.pdb

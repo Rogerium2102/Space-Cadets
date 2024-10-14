@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 2\\objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\managers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\managers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058C5332-0A95-4B03-86EF-A411DEE628F1}|Week 1\\Week 1.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{058C5332-0A95-4B03-86EF-A411DEE628F1}|Week 1\\Week 1.csproj|solutionrelative:week 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Variable.cs",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Variable.cs",
-              "RelativeDocumentMoniker": "Week 2\\Objects\\Variable.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Variable.cs",
-              "RelativeToolTip": "Week 2\\Objects\\Variable.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "variable.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\variable.cs",
+              "RelativeDocumentMoniker": "Week 2\\Objects\\variable.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\variable.cs",
+              "RelativeToolTip": "Week 2\\Objects\\variable.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:51:04.01Z",
+              "WhenOpened": "2024-10-09T19:16:06.556Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
-              "RelativeDocumentMoniker": "Week 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
-              "RelativeToolTip": "Week 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Program.cs",
+              "RelativeDocumentMoniker": "Week 2\\Objects\\Program.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Program.cs",
+              "RelativeToolTip": "Week 2\\Objects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:50:31.306Z",
+              "WhenOpened": "2024-10-08T16:58:22.677Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -60,15 +70,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 1\\Program.cs",
-              "RelativeDocumentMoniker": "Week 1\\Program.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 1\\Program.cs",
-              "RelativeToolTip": "Week 1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "loop.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\loop.cs",
+              "RelativeDocumentMoniker": "Week 2\\Objects\\loop.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\loop.cs",
+              "RelativeToolTip": "Week 2\\Objects\\loop.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:18:09.318Z",
+              "WhenOpened": "2024-10-09T19:15:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Managers\\FileManager.cs",
+              "RelativeDocumentMoniker": "Week 2\\Managers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Managers\\FileManager.cs",
+              "RelativeToolTip": "Week 2\\Managers\\FileManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:44:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
+              "RelativeDocumentMoniker": "Week 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
+              "RelativeToolTip": "Week 2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:50:31.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Condition.cs",
+              "RelativeDocumentMoniker": "Week 2\\Objects\\Condition.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Condition.cs",
+              "RelativeToolTip": "Week 2\\Objects\\Condition.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:26:28.859Z",
               "EditorCaption": ""
             }
           ]

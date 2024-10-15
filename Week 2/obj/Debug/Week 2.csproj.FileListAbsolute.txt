@@ -5,3 +5,6 @@ C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.csproj.Asse
 C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.csproj.CoreCompileInputs.cache
 C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.exe
 C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.pdb
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 2\obj\Debug\Week 2.csproj.ResolveComReference.cache

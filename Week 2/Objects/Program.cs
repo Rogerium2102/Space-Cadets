@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using Week_2.Managers;
+using WMPLib;
 
 namespace Week_2.Objects
 {
@@ -18,6 +21,7 @@ namespace Week_2.Objects
         private FileManager FileMan;
         private bool _Terminated = false;
         private string TargetURL = "https://www.youtube.com/watch?v=At8v_Yc044Y";
+        private WindowsMediaPlayer Player = new WindowsMediaPlayer();
         bool _Infected = false;
         private int LoopCount = 0;
         public Program(string filename)
@@ -230,6 +234,25 @@ namespace Week_2.Objects
                 Console.WriteLine(C.GetLoopId());
             }
         }
+
+        private string OmochaoLineGet(string[] Command)
+        {
+            switch (Command[0].ToLower())
+            {
+                case "clear":
+                    return "You declared a variable!";
+                case "incr":
+                    return $"You increased {Command[1]} by 1!";
+                case "decr":
+                    return $"You decreased {Command[1]} by 1!";
+                case "while":
+                    return $"You spin right round!";
+                case "end":
+                    return $"You look behind and go back a few steps!";
+                default:
+                    return "You mock my intelligence!";
+            }
+        }
         public void Run()
         {
             string[] Command;
@@ -244,7 +267,10 @@ namespace Week_2.Objects
                     DecodeAndExecuteCommand(Command);
                     if (FileMan.GetCurrentLine() % 3 == 0 && _Infected)
                     {
-                        System.Diagnostics.Process.Start(TargetURL);
+                        Console.WriteLine(OmochaoLineGet(Command));
+                        Player.URL = "C:/Users/Matth/Downloads/1-up-sonic-3.mp3/";
+                        Player.controls.play();
+                        Thread.Sleep(3100);
                     }
                 }
                 _Terminated = true;

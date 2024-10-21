@@ -1,0 +1,11 @@
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\bin\Debug\Week 3.exe.config
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\bin\Debug\Week 3.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\bin\Debug\Week 3.pdb
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week 3.csproj.AssemblyReference.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week_3.Form1.resources
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week_3.Properties.Resources.resources
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week 3.csproj.GenerateResource.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week 3.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week 3.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week 3.pdb
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 3\obj\Debug\Week_3.ForceWatch.resources

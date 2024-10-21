@@ -14,32 +14,34 @@ namespace Week_2.Objects
 {
     public class Program
     {
-        private string _filename;
+        private string[] _Code;
+        private int _LineNum = 0;
         private Dictionary<string, variable> _Variables = new Dictionary<string, variable>();
         private Stack<loop> StackLoop = new Stack<loop>();
         private string CurrentLine;
-        private FileManager FileMan;
         private bool _Terminated = false;
-        private string TargetURL = "https://www.youtube.com/watch?v=At8v_Yc044Y";
         private WindowsMediaPlayer Player = new WindowsMediaPlayer();
+        public string ErrorMessage = null;
         bool _Infected = false;
         private int LoopCount = 0;
-        public Program(string filename)
+        public Program(string[] Code)
         {
-            _filename = filename;
-            FileMan = new FileManager(_filename);
+            _Code = Code;
         }
 
-        public Program(string filename, bool infected)
+        public Program(string[] Code, bool infected)
         {
-            _filename = filename;
-            FileMan = new FileManager(_filename);
+            _Code = Code;
             _Infected = infected;
         }
 
         public bool isProgramTerminated()
         {
-            return FileMan.isEndOfStream();
+            if (_Code.Length == _LineNum)
+            {
+                return true;
+            }
+            return false;
         }
 
         private bool TooManyArguments(string[] command, int AmountRequired)
@@ -104,7 +106,15 @@ namespace Week_2.Objects
             }
             return null;
         }
-
+        public string[] GetStringVar()
+        {
+            List<string> strings = new List<string>();
+            foreach (string c in _Variables.Keys)
+            {
+                strings.Add(c + " : " + _Variables[c].GetValue());
+            }
+            return strings.ToArray();
+        }
         private void OutputVar()
         {
             foreach (string c in _Variables.Keys)
@@ -154,7 +164,7 @@ namespace Week_2.Objects
                     if (LoopCount > StackLoop.Count)
                     {
                         if (CommandWords[2] == "not") ConditionNot = true;
-                        loop newLoop = new loop(FileMan.GetCurrentLine() - 1, useVariables, ConditionNot, StackLoop.Count);
+                        loop newLoop = new loop(_LineNum - 1, useVariables, ConditionNot, StackLoop.Count);
                         StackLoop.Push(newLoop);
                         break;
                     }
@@ -193,7 +203,7 @@ namespace Week_2.Objects
                     else
                     {
                         loop BackLoop = StackLoop.Peek();
-                        FileMan.OverrideCurrentLine(BackLoop.GetJumpPoint());
+                        _LineNum = BackLoop.GetJumpPoint();
                     }
 
                     break;
@@ -204,7 +214,7 @@ namespace Week_2.Objects
 
         private void MoveIndexToOfNoTabs()
         {
-            string NextLine = FileMan.GetNextLine();
+            string NextLine = GetNextCodeLine();
             string AmountOfTabs = "";
             for (int i = 0; i < NextLine.Length; i++)
             {
@@ -217,14 +227,16 @@ namespace Week_2.Objects
                     break;
                 }
             }
-            while (FileMan.GetNextLine().Contains(AmountOfTabs))
+            while (GetNextCodeLine().Contains(AmountOfTabs))
             {
             }
         }
-        public void ReportError(Exception ex)
+        public string ReportError(Exception ex)
         {
             Console.WriteLine(ex.ToString());
+            ErrorMessage = ex.ToString();
             _Terminated = true;
+            return ex.ToString();
         }
 
         private void OutputStack()
@@ -258,14 +270,14 @@ namespace Week_2.Objects
             string[] Command;
             try
             {
-                while (!FileMan.isEndOfStream() && !_Terminated)
+                while (!isProgramTerminated() && !_Terminated)
                 {
-                    CurrentLine = FileMan.GetNextLine();
+                    CurrentLine = GetNextCodeLine();
                     CurrentLine = CurrentLine.Replace("   ", "");
                     Console.WriteLine(CurrentLine);
                     Command = CurrentLine.Split(' ');
                     DecodeAndExecuteCommand(Command);
-                    if (FileMan.GetCurrentLine() % 3 == 0 && _Infected)
+                    if (_LineNum % 3 == 0 && _Infected)
                     {
                         Console.WriteLine(OmochaoLineGet(Command));
                         Player.URL = "C:/Users/Matth/Downloads/1-up-sonic-3.mp3/";
@@ -285,6 +297,12 @@ namespace Week_2.Objects
         public bool isTerminated()
         {
             return _Terminated;
+        }
+
+        private string GetNextCodeLine()
+        {
+            _LineNum++;
+            return _Code[_LineNum-1];
         }
     }
 }

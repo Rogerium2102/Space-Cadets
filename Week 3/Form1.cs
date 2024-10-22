@@ -85,8 +85,16 @@ namespace Week_3
             }
             _NetMan.Send("COMP");
             Response = _NetMan.Receive();
-            Response = Response.Remove(0, 5);
-            DISPLAYResponse.Lines = Response.Split('#');
+            if (Response.Contains("www.youtube.com"))
+            {
+                _ForceWatch.Show();
+                _ForceWatch.ShowUserWebpage(Response.Split('#')[1]);
+            }
+            else
+            {
+                Response = Response.Remove(0, 5);
+                DISPLAYResponse.Lines = Response.Split('#');
+            }
         }
     }
 }

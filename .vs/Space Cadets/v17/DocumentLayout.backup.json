@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 3\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,12 +11,32 @@
       "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 3\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|c:\\users\\matth\\documents\\gitlab\\space cadets\\week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|solutionrelative:week 2\\objects\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BE2FA1D-9591-4A41-98B5-012C5AF1F194}|Week 3\\Week 3.csproj|solutionrelative:week 3\\forcewatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA35BEA-4D82-49C8-B592-0FC5E5A816E6}|Week 2\\Week 2.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\week 2\\objects\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "variable.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\variable.cs",
               "RelativeDocumentMoniker": "Week 2\\Objects\\variable.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Objects\\Program.cs",
               "RelativeDocumentMoniker": "Week 2\\Objects\\Program.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Managers\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Week 2\\Managers\\NetworkManager.cs",
@@ -94,8 +94,7 @@
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAE0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:00:19.734Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -103,45 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
               "RelativeDocumentMoniker": "Week 2\\Program.cs",
               "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 2\\Program.cs",
               "RelativeToolTip": "Week 2\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAB3AQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T14:50:31.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ForceWatch.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
-              "RelativeDocumentMoniker": "Week 3\\ForceWatch.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs [Design]",
-              "RelativeToolTip": "Week 3\\ForceWatch.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:07:47.243Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ForceWatch.cs",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
-              "RelativeDocumentMoniker": "Week 3\\ForceWatch.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
-              "RelativeToolTip": "Week 3\\ForceWatch.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:08:31.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Managers\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Week 3\\Managers\\NetworkManager.cs",
@@ -154,27 +128,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Week 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs [Design]*",
+              "RelativeToolTip": "Week 3\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:00:39.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs",
               "RelativeDocumentMoniker": "Week 3\\Form1.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs",
-              "RelativeToolTip": "Week 3\\Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs*",
+              "RelativeToolTip": "Week 3\\Form1.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwGAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T17:14:07.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs",
-              "RelativeDocumentMoniker": "Week 3\\Form1.cs",
-              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\Form1.cs [Design]",
-              "RelativeToolTip": "Week 3\\Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "ForceWatch.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
+              "RelativeDocumentMoniker": "Week 3\\ForceWatch.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
+              "RelativeToolTip": "Week 3\\ForceWatch.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:00:39.711Z",
+              "WhenOpened": "2024-10-18T11:08:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForceWatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs",
+              "RelativeDocumentMoniker": "Week 3\\ForceWatch.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\Space Cadets\\Week 3\\ForceWatch.cs [Design]",
+              "RelativeToolTip": "Week 3\\ForceWatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:07:47.243Z",
               "EditorCaption": " [Design]"
             },
             {

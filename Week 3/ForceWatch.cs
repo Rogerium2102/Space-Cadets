@@ -19,6 +19,11 @@ namespace Week_3
 
         public void ShowUserWebpage(string URL)
         {
+            if (!URL.Contains("www.youtube.com"))
+            {
+                MessageBox.Show("Link did not contain youtube -- All links must go to youtube!");
+                this.Close();
+            }
             webBrowser1.Navigate(URL);
         }
         private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)

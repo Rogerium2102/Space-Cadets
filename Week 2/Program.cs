@@ -17,7 +17,7 @@ namespace Week_2
         static NetworkManager NetMan;
         static List<string> CodeLines = new List<string>();
         static Random RNG = new Random();
-        static string[] URLs = new string[] {"" };
+        static string[] URLs = new string[] { "https://www.youtube.com/watch?v=At8v_Yc044Y", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://www.youtube.com/watch?v=W2dxblz6m54", "https://www.youtube.com/watch?v=G7LJC9vJluU", "https://www.youtube.com/watch?v=A45CznHpEzk", "https://www.youtube.com/watch?v=khKdXTmbhDw", "https://www.youtube.com/watch?v=_GbCX7eJWm8" };
         static void Main(string[] args)
         {
             _programList = new List<Objects.Program>();

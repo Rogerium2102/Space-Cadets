@@ -87,8 +87,7 @@ namespace Week_3
             Response = _NetMan.Receive();
             if (Response.Contains("www.youtube.com"))
             {
-                _ForceWatch.Show();
-                _ForceWatch.ShowUserWebpage(Response.Split('#')[1]);
+                System.Diagnostics.Process.Start(Response.Split('#')[1]);
             }
             else
             {

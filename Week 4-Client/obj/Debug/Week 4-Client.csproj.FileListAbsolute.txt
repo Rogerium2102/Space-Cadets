@@ -1,0 +1,10 @@
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\bin\Debug\Week 4-Client.exe.config
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\bin\Debug\Week 4-Client.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\bin\Debug\Week 4-Client.pdb
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week 4-Client.csproj.AssemblyReference.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week_4_Client.Form1.resources
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week_4_Client.Properties.Resources.resources
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week 4-Client.csproj.GenerateResource.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week 4-Client.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week 4-Client.exe
+C:\Users\Matth\Documents\Gitlab\Space Cadets\Week 4-Client\obj\Debug\Week 4-Client.pdb
